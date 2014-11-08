@@ -1,14 +1,4 @@
-Proba
-Beste zerbait
+Chapter 1
+----------
 
-PUSH-a probatzeko beste aldaketa bat eginda
-
-// beste bat
-eta hau FETCH probatzeko
-
-
-
-
-// Chapter 2
-Start chapter 2
-Beste aldaketa
+Beste edukia
